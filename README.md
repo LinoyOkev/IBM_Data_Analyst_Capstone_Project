@@ -3,7 +3,9 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- 
+- [Findings](#findings)
+- [Key Takeaways](#key-takeaways)
+
 ### Project Overview
 
 For this project, I will assume the role of an Associate Data Analyst at a technology consulting organization. My primary task is to analyze the data and obtain valuable insights into current and future technological trends using the latest Stack Overflow Developer Survey dataset. 
@@ -67,10 +69,10 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
 
 ### Key Takeaways
-✔ SQL and PostgreSQL are must-have skills for database professionals.
-✔ C# is a valuable skill for developers, especially in enterprise and gaming.
-✔ Diversify beyond JavaScript and explore backend frameworks like FastAPI.
-✔ Multi-cloud expertise is crucial, not just AWS.
-✔ FastAPI is the future of Python APIs, making it an essential skill for backend engineers.
+- SQL and PostgreSQL are must-have skills for database professionals.
+- C# is a valuable skill for developers, especially in enterprise and gaming.
+- Diversify beyond JavaScript and explore backend frameworks like FastAPI.
+- Multi-cloud expertise is crucial, not just AWS.
+- FastAPI is the future of Python APIs, making it an essential skill for backend engineers.
 
 
