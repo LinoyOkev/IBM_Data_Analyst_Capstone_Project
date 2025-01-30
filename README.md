@@ -15,10 +15,10 @@ In this project, I will analyze data to answer key questions about the use of te
 ### Data Sources
 
 The dataset used for this analysis is the 2019 Stack Overflow Developer Survey, covering everything from developers’ favorite technologies to their job preferences.
-
 [Click here to download the dataset](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/releases/download/survey-data-v1/survey_data_updated.csv)
 
-### Tools and software
+### Tools and Software
+- Excel
 - SQL
 - Python libraries such as Pandas, NumPy
 - Jupyter Notebook
