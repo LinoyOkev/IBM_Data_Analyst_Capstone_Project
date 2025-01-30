@@ -26,5 +26,8 @@ In the initial phase of data analysis, we performed the following tasks:
 - Data loading and inspection
 - Data formatting
 
-### [data Wrangling]
+### [data Wrangling](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/4.Data%20Wrangling.ipynb)
+
+We will perform data wrangling which involves transforming and preparing raw data into a structured and usable format for analysis. It involves various techniques to clean, normalize, and integrate data from different sources.
+- 
 
