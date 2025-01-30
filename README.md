@@ -2,16 +2,21 @@
 
 ### Project Overview
 
-As a newly hired Data Analyst at a global IT and business consulting firm, my role is to analyze data to anticipate future skill requirements. To stay competitive in the evolving tech landscape, the organization regularly examines industry trends to identify the most in-demand programming skills.
+For this project, I will assume the role of an Associate Data Analyst at a technology consulting organization. My primary task is to analyze the data and obtain valuable insights into current and future technological trends using the latest Stack Overflow Developer Survey dataset. 
 
-In this project, I collect data from multiple sources, including job postings, training portals, and surveys, to determine key programming skills in demand. Using data from the 2019 Stack Overflow Developer Survey, I conduct a comprehensive analysis to uncover insights and trends.
-Each phase of the data analysis process is documented in separate notebooks within this repository, along with additional reference files for context.
+In this project, I will analyze data to answer key questions about the use of technology. I will analyze trends in programming languages, databases, platforms, and frameworks, focusing on those technologies professionals currently use and those they aim to learn in the future. Through careful analysis, I will extract insights highlighting emerging patterns and shifts in the tech landscape. These findings will then be presented to various stakeholders in my organization for informed decision-making.
 
 ### Data Sources
 
-The primary dataset used for this analysis is the 2019 Stack Overflow Developer Survey, covering everything from developers’ favorite technologies to their job preferences.
+The dataset used for this analysis is the 2019 Stack Overflow Developer Survey, covering everything from developers’ favorite technologies to their job preferences.
 
 Click [here](https://survey.stackoverflow.co/2019) for more information about the survey.
+
+### Tools and software
+- SQL
+- Python libraries such as Pandas, NumPy
+- Jupyter Notebook
+- IBM Cognos
 
 ### Objectives
 
