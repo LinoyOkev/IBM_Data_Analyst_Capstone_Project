@@ -26,7 +26,7 @@ In the initial phase of data analysis, we performed the following tasks:
 - Data loading and inspection
 - Data formatting
 
-### [data Wrangling](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/4.Data%20Wrangling.ipynb)
+### [Data Wrangling](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/4.Data%20Wrangling.ipynb)
 
 We will perform data wrangling which involves transforming and preparing raw data into a structured and usable format for analysis. It involves various techniques to clean, normalize, and integrate data from different sources.
 - Removing inconsistencies
@@ -34,7 +34,7 @@ We will perform data wrangling which involves transforming and preparing raw dat
 - Handling missing values
 - Applying feature scaling.
 
-### [Exploratory Data Analysis]
+### [Exploratory Data Analysis](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/5.a.Exploratory%20Data%20Analysis.ipynb)
 
 EDA involved exploring the following key questions: 
 - What factors influence job satisfaction and remote work trends?
