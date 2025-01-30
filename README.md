@@ -16,7 +16,7 @@ In this project, I will analyze data to answer key questions about the use of te
 
 The dataset used for this analysis is the 2019 Stack Overflow Developer Survey, covering everything from developers’ favorite technologies to their job preferences.
 
-[click here to download the dataset](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/releases/download/survey-data-v1/survey_data_updated.csv)
+[Click here to download the dataset](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/releases/download/survey-data-v1/survey_data_updated.csv)
 
 ### Tools and software
 - SQL
@@ -61,6 +61,8 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - Understanding data distribution to identify patterns and outliers.
 - Exploring relationships between features through visual analysis.
 - Comparing and composing data using charts and graphs for better insights.
+[Type here to see the full deshboard on IBM Cognos](https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM%2BProject&action=view&mode=dashboard&subView=model00000194ac8f6eab_00000000
+![image](https://github.com/user-attachments/assets/b7648d6f-9e3b-4e23-8ad5-bc2471a01914)
 
 ### Findings
 - PostgreSQL is becoming the most popular database, while SQLite is growing for smaller applications.
