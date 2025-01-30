@@ -44,4 +44,10 @@ EDA involved exploring the following key questions:
 
 These questions guide the analysis by focusing on workplace trends, programming skills, and job satisfaction metrics.
 
+### [Data Visualization](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/6.Data%20Visualization.ipynb)
+
+In this step, we focus on data visualization using data extracted from an RDBMS via SQL queries. The key objectives include:
+- Understanding data distribution to identify patterns and outliers.
+- Exploring relationships between features through visual analysis.
+- Comparing and composing data using charts and graphs for better insights.
 
