@@ -68,13 +68,13 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - Cloud services are expanding beyond AWS, with Google Cloud and Digital Ocean gaining users.
 - React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
 
-## Current Technology Usage
+#### Current Technology Usage
 ![6](https://github.com/user-attachments/assets/d17e226e-f20e-466c-b7f7-fd282184b21f)
 
-## Future Technology Trend
+#### Future Technology Trend
 ![7](https://github.com/user-attachments/assets/98868617-b1d0-4f1b-b816-a7dac4951ac7)
 
-## Demographics
+#### Demographics
 ![8](https://github.com/user-attachments/assets/4c461948-3190-4d24-95a9-5f8c0d356e72)
 
 ### Key Takeaways
