@@ -20,7 +20,7 @@ Click [here](https://survey.stackoverflow.co/2019) for more information about th
 - Exploratory Data Analysis
 - Data Visualization
 
-### Exploring the Dataset
+### Exploring the Dataset [Click Here](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/1.Explore%20Data%20Set.ipynb)
 
 In the initial phase of data analysis, we aim to understand the data's characteristics, identify patterns, and uncover potential insights.
 
