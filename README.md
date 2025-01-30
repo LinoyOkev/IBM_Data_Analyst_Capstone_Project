@@ -16,7 +16,7 @@ In this project, I will analyze data to answer key questions about the use of te
 
 The dataset used for this analysis is the 2019 Stack Overflow Developer Survey, covering everything from developers’ favorite technologies to their job preferences.
 
-[click the link to download the file directly](https://survey.stackoverflow.co/2019) f
+[click here to download the dataset](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/releases/download/survey-data-v1/survey_data_updated.csv)
 
 ### Tools and software
 - SQL
