@@ -36,3 +36,12 @@ We will perform data wrangling which involves transforming and preparing raw dat
 
 ### [Exploratory Data Analysis]
 
+EDA involved exploring the following key questions: 
+- What factors influence job satisfaction and remote work trends?
+- How does programming language usage vary by region?
+- What is the relationship between experience and job satisfaction?
+- How does educational background relate to employment type?
+
+These questions guide the analysis by focusing on workplace trends, programming skills, and job satisfaction metrics.
+
+
