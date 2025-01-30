@@ -1,5 +1,9 @@
 # IBM Data Analyst Capstone Project
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- 
 ### Project Overview
 
 For this project, I will assume the role of an Associate Data Analyst at a technology consulting organization. My primary task is to analyze the data and obtain valuable insights into current and future technological trends using the latest Stack Overflow Developer Survey dataset. 
@@ -55,4 +59,18 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - Understanding data distribution to identify patterns and outliers.
 - Exploring relationships between features through visual analysis.
 - Comparing and composing data using charts and graphs for better insights.
+
+### Findings
+- PostgreSQL is becoming the most popular database, while SQLite is growing for smaller applications.
+- C# and SQL are in high demand, while JavaScript is still popular but slightly less preferred.
+- Cloud services are expanding beyond AWS, with Google Cloud and Digital Ocean gaining users.
+- React, Spring Boot, and FastAPI are the top web frameworks, with FastAPI becoming more popular for Python-based APIs.
+
+### Key Takeaways
+✔ SQL and PostgreSQL are must-have skills for database professionals.
+✔ C# is a valuable skill for developers, especially in enterprise and gaming.
+✔ Diversify beyond JavaScript and explore backend frameworks like FastAPI.
+✔ Multi-cloud expertise is crucial, not just AWS.
+✔ FastAPI is the future of Python APIs, making it an essential skill for backend engineers.
+
 
