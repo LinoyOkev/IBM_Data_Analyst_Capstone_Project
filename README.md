@@ -61,7 +61,6 @@ In this step, we focus on data visualization using data extracted from an RDBMS 
 - Understanding data distribution to identify patterns and outliers.
 - Exploring relationships between features through visual analysis.
 - Comparing and composing data using charts and graphs for better insights.
-[Type here to see the full deshboard on IBM Cognos](<iframe src="https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FIBM%2BProject&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model00000194ac8f6eab_00000000" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>)
 
 ### Findings
 - PostgreSQL is becoming the most popular database, while SQLite is growing for smaller applications.
