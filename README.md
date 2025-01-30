@@ -26,3 +26,5 @@ In the initial phase of data analysis, we performed the following tasks:
 - Data loading and inspection
 - Data formatting
 
+### [data Wrangling]
+
