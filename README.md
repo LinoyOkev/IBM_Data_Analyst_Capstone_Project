@@ -23,4 +23,5 @@ Click [here](https://survey.stackoverflow.co/2019) for more information about th
 ### [Exploring the Dataset](https://github.com/LinoyOkev/IBM_Data_Analyst_Capstone_Project/blob/main/1.Explore%20Data%20Set.ipynb)
 
 In the initial phase of data analysis, we aim to understand the data's characteristics, identify patterns, and uncover potential insights.
+![image](https://github.com/user-attachments/assets/cd831ce5-8cb1-44e2-92be-7c6fdfc0d2f6)
 
